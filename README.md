@@ -2,11 +2,15 @@
  #### Babes-Bolyai University, Cluj-Napoca
  
  :computer: Interested in:
- * Cryptography > FHE
+ * Cryptography - FHE
  * Machine Learning & Artificial Intelligence
  * Number Theory
  
-
+ :bomb: Programming Languages:
+ * :blue_book: Python
+ * :closed_book: C/C++
+ * :green_book: Java
+ * :ledger: Assembly
 <!--
 **octatrifan/octatrifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

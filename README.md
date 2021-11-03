@@ -1,4 +1,11 @@
-### Hi there 👋
+### Computer Science Student
+ #### Babes-Bolyai University, Cluj-Napoca
+ 
+ :computer: Interested in:
+ * Cryptography > FHE
+ * Machine Learning & Artificial Intelligence
+ * Number Theory
+ 
 
 <!--
 **octatrifan/octatrifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

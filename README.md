@@ -1,6 +1,8 @@
 ### Computer Science Student
  #### Babes-Bolyai University, Cluj-Napoca
  
+ #Software Engineering Intern at Microsoft
+ 
  :computer: Interested in:
  * Cryptography - FHE
  * Machine Learning & Artificial Intelligence

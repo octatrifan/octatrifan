@@ -1,7 +1,7 @@
 ### Computer Science Student
- #### Babes-Bolyai University, Cluj-Napoca
+ ### Babes-Bolyai University, Cluj-Napoca
  
- #Software Engineering Intern at Microsoft
+ ### Software Engineering Intern at Microsoft
  
  :computer: Interested in:
  * Cryptography - FHE
@@ -9,7 +9,7 @@
  * Number Theory
  
  :bomb: Programming Languages:
- * :blue_book: Python
+ * :blue_book: Python, React & TypeScript
  * :closed_book: C/C++
  * :green_book: Java
  * :ledger: Assembly

@@ -1,11 +1,12 @@
-### Computer Science Student
- ### Babes-Bolyai University, Cluj-Napoca
+### Computer Science PhD Student
+ ### UC Irvine
  
- ### Software Engineering Intern at Microsoft
- 
+ ### Ex Software Engineering Intern at Microsoft
+
+ 🔭 I’m currently researching on advancements in AI and LLMs through various optimization techniques regarding data processing and distributed systems.
  :computer: Interested in:
- * Cryptography - FHE
  * Machine Learning & Artificial Intelligence
+ * TinyML LLM Optimizations
  * Number Theory
  
  :bomb: Programming Languages:

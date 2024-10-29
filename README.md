@@ -4,6 +4,7 @@
  ### Ex Software Engineering Intern at Microsoft
 
  🔭 I’m currently researching on advancements in AI and LLMs through various optimization techniques regarding data processing and distributed systems.
+ 
  :computer: Interested in:
  * Machine Learning & Artificial Intelligence
  * TinyML LLM Optimizations
